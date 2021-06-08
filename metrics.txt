@@ -1,0 +1,48 @@
+
+*******
+METRICS
+*******
+
+Simulation time: 120.01
+Distance travelled: 60.005
+Protocol used: zigbee
+Packet size: 5kB
+
+Vehicle Metrics
+---------------
+
+Number of sensors passed: 3
+Successful transactions: 3
+Sensors passed: [ 1 2 3]
+
+Transaction Metrics
+-------------------
+
+Sensor number: 1
+Transaction completed: 1
+Transaction start: 0.01
+Transaction time: 1.925
+Transaction end: 1.935
+Sensor number: 2
+Transaction completed: 1
+Transaction start: 8.78
+Transaction time: 1.825
+Transaction end: 10.605
+Sensor number: 3
+Transaction completed: 1
+Transaction start: 21.86
+Transaction time: 1.925
+Transaction end: 23.785
+
+Power Metrics
+-------------
+
+Vehicle stationary power: 0.5W
+Vehicle moving power: 44.3W
+Vehicle transaction power: 0.5W
+Sensor idle power: 4.7e-07W
+Sensor transaction power: 0.5W
+Total vehicle energy used: 5212.73J
+Sensor 1 energy used: 0.96506J
+Sensor 2 energy used: 0.91506J
+Sensor 3 energy used: 0.96506J
